@@ -2,6 +2,7 @@
   - [Animales en Investigación](#animales-en-investigación)
     - [Requerimientos:](#requerimientos)
     - [Recursos utilizados:](#recursos-utilizados)
+    - [Desarrollado por Estefani Tapia G.](#desarrollado-por-estefani-tapia-g)
 
 # Prueba Programación Avanzada en Javascript
 
@@ -38,3 +39,4 @@ Este código JavaScript interactúa con una página web para cargar datos de ani
 * [Jquery](https://jquery.com/)
 * [FontAwesome](https://fontawesome.com/)
 
+### Desarrollado por Estefani Tapia G.
