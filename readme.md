@@ -6,7 +6,7 @@
 
 # Prueba Programación Avanzada en Javascript
 
-[Animales en Investigación](/assets/imgs/animales-en-investigacion.png)
+![Animales en Investigación](/assets/imgs/animales-en-investigacion.png)
 
 ## Animales en Investigación
 
